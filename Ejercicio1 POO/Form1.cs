@@ -22,7 +22,7 @@ namespace Ejercicio1_POO
         private void BtnEncender_Click(object sender, EventArgs e)
         {
             movil.Encender();
-            label1.Text = "Encendido";
+            label1.Text = "Encendido!";
 
         }
 
